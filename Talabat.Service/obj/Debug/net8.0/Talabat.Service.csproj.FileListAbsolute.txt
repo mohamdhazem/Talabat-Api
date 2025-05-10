@@ -1,0 +1,15 @@
+D:\APIprojects\Talabat.APIs\Talabat.APIs\Talabat.Service\bin\Debug\net8.0\Talabat.Service.deps.json
+D:\APIprojects\Talabat.APIs\Talabat.APIs\Talabat.Service\bin\Debug\net8.0\Talabat.Service.dll
+D:\APIprojects\Talabat.APIs\Talabat.APIs\Talabat.Service\bin\Debug\net8.0\Talabat.Service.pdb
+D:\APIprojects\Talabat.APIs\Talabat.APIs\Talabat.Service\bin\Debug\net8.0\Talabat.Core.dll
+D:\APIprojects\Talabat.APIs\Talabat.APIs\Talabat.Service\bin\Debug\net8.0\Talabat.Core.pdb
+D:\APIprojects\Talabat.APIs\Talabat.APIs\Talabat.Service\obj\Debug\net8.0\Talabat.Service.csproj.AssemblyReference.cache
+D:\APIprojects\Talabat.APIs\Talabat.APIs\Talabat.Service\obj\Debug\net8.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\APIprojects\Talabat.APIs\Talabat.APIs\Talabat.Service\obj\Debug\net8.0\Talabat.Service.AssemblyInfoInputs.cache
+D:\APIprojects\Talabat.APIs\Talabat.APIs\Talabat.Service\obj\Debug\net8.0\Talabat.Service.AssemblyInfo.cs
+D:\APIprojects\Talabat.APIs\Talabat.APIs\Talabat.Service\obj\Debug\net8.0\Talabat.Service.csproj.CoreCompileInputs.cache
+D:\APIprojects\Talabat.APIs\Talabat.APIs\Talabat.Service\obj\Debug\net8.0\Talabat..89B18B2E.Up2Date
+D:\APIprojects\Talabat.APIs\Talabat.APIs\Talabat.Service\obj\Debug\net8.0\Talabat.Service.dll
+D:\APIprojects\Talabat.APIs\Talabat.APIs\Talabat.Service\obj\Debug\net8.0\refint\Talabat.Service.dll
+D:\APIprojects\Talabat.APIs\Talabat.APIs\Talabat.Service\obj\Debug\net8.0\Talabat.Service.pdb
+D:\APIprojects\Talabat.APIs\Talabat.APIs\Talabat.Service\obj\Debug\net8.0\ref\Talabat.Service.dll
